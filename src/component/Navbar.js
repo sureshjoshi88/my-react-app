@@ -14,7 +14,7 @@ function Navbar(props) {
       aria-expanded="false"
       aria-label="Toggle navigation"
       className="navbar-toggler"
-      data-bs-target="/navbarSupportedContent"
+      data-bs-target="#navbarSupportedContent"
       data-bs-toggle="collapse"
       type="button">
       <span className="navbar-toggler-icon" />
