@@ -7,7 +7,7 @@ function Navbar(props) {
       <nav className={`navbar navbar-expand-lg  navbar-${props.mode} bg-${props.mode}`}>
   <div className="container-fluid">
     <Link className="navbar-brand" to="/">
-      Navbar
+      Pretics
     </Link>
     <button
       aria-controls="navbarSupportedContent"
